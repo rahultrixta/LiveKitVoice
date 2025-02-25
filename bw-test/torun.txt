@@ -1,0 +1,7 @@
+    pnpm install
+    pnpm build
+    node dist/agent.js dev
+cd <frontend_dir>
+
+pnpm install
+pnpm dev
